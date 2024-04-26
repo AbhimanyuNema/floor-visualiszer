@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "790468498105",
+    "project_id": "floorvisualizer",
+    "storage_bucket": "floorvisualizer.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790468498105:android:5d355e5a91e409dae00168",
+        "android_client_info": {
+          "package_name": "com.abhimanyusapplication.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArBQVXOTKPQUwQ7bKVlSczxRmFBpY7KKA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:790468498105:android:b13ad2c366eecb24e00168",
+        "android_client_info": {
+          "package_name": "com.example.myfinalapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArBQVXOTKPQUwQ7bKVlSczxRmFBpY7KKA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
